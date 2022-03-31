@@ -13,5 +13,5 @@ random_person = random.randint(0, total_people - 1)
 
 choice_payer = names[random_person]
 
-print(choice_payer)
+print(f'{choice_payer} is going to buy he meal today!')
 
